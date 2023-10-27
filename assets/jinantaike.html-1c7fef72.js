@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2cda4ee5","path":"/blogs/suibi/2023/jinantaike.html","title":"记南泰科","lang":"en-US","frontmatter":{"title":"记南泰科","date":"2023/10/27","tags":["VuePress","GitHubPages"],"categories":["随笔"]},"headers":[],"git":{},"filePathRelative":"blogs/随笔/2023/记南泰科.md"}');export{e as data};

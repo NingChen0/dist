@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b28aec56","path":"/blogs/qianduan/2023/web10_27.html","title":"初识HTML","lang":"en-US","frontmatter":{"title":"初识HTML","date":"2023/10/27","tags":["VuePress","GitHubPages"],"categories":["前端"]},"headers":[],"git":{},"filePathRelative":"blogs/前端/2023/web10_27.md"}');export{e as data};
